@@ -1,4 +1,4 @@
-Python==3.7.12
+python-dateutil==3.6.15
 opencv-python-headless==4.3.0.38
 numpy==1.19.3
 Flask==1.1.1
