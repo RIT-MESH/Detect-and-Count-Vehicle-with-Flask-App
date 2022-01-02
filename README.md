@@ -13,3 +13,10 @@ python -m pip install -r requirements.txt
 python app.py\
 You will get url copy it and paste in browser.
 ### Step 7: You have sample_data folder where you can get images to test.
+----------------------------------------------------------------------------------
+
+## Final output:
+  
+  
+  
+![final output](https://user-images.githubusercontent.com/74177895/147877207-e30715ae-b703-4e5b-8ff5-7b37278a0ed0.JPG)
